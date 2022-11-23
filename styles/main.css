@@ -80,7 +80,8 @@ header img {
 	top: 100%;
 }
 #nav_menu ul ul li {
-	float: none;
+	position: relative;
+	width: 100%;
 }
 #nav_menu ul li:hover > ul {
 	display: block;
